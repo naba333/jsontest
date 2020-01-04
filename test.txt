@@ -1,0 +1,18 @@
+
+{
+    "name": "Lord",
+    "surename": "Vader",
+    "www": {
+        "www address": "http://www.death-star.com",
+        "articles": [
+            {
+                "title": "Mein kampf",
+                "publication date": {
+                    "year": 2666,
+                    "month": 13,
+                    "day": 33
+                }
+            }
+        ]
+    }
+}
